@@ -1,0 +1,22 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2em 0;
+}
+
+.contentBox {
+  display: flex;
+  flex-direction: row;
+  background-color: grey;
+  min-width: 800px;
+}
+
+.contentBox img {
+  width: 200px;
+  height: 200px;
+}
+
+.artistDetails {
+  padding: 0 1em;
+}
